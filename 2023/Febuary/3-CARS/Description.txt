@@ -1,0 +1,1 @@
+Tap to move the car away from the Obstacle
