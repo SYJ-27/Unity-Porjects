@@ -1,0 +1,4 @@
+Tính điểm 2 cách:
+- Thời gian tồn tại
+- Số nhà mà xe này cứu được
+
